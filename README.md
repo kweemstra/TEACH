@@ -8,9 +8,9 @@ Created by Cornelis Weemstra
 
 ## Geting ready
 
-This will be an active learning assignment, which will make use of the python programming language in combination with [Jupyter Notebooks](https://jupyter.org/), which you should install (or already have) on your laptops that you bring to the course.
+This will be an active learning assignment, which will make use of the python programming language in combination with [Jupyter Notebooks](https://jupyter.org/), which you should install (or already have) on the laptop that you bring to the course.
 
-We have prepared some instructions for setting up your environment so that you come prepared and so that we don’t spend precious time on these preparations during the assignment. Please follow the instructions. These instructions should work on Linux, macOS, and Windows.
+I have prepared some instructions for setting up your environment so that you come prepared and so that we don’t spend precious time on these preparations during the assignment. Please follow the instructions. These instructions should work on Linux, macOS, and Windows.
 
 
 
@@ -21,7 +21,7 @@ If you do not already have Anaconda or Miniconda installed on your machine (Hint
 
 https://conda.io/en/latest/miniconda.html
 
-We recommend the 64-bit Python 3.7 version regardless of your OS. Installation should be straightforward (choose default install location), but will inlude agreeing to the license terms (mark/type 'yes').
+Irrespective of your OS, I recommend the 64-bit Python 3.7 version. Installation should be straightforward (choose default install location), but will inlude agreeing to the license terms (mark/type 'yes').
 
 
 
@@ -51,7 +51,7 @@ conda config --add channels conda-forge && conda install -y ipython \
     tornado=5.1.1 jupyter notebook ipywidgets numpy scipy numba pandas \
     gdal netcdf4 matplotlib basemap basemap-data-hires pillow obspy
 ```
-This may take a couple of minutes and will result is many other packages getting installed as conda takes care of package dependencies for you.
+This may take a couple of minutes and will result in many other packages being installed as conda takes care of the dependencies for you.
 
 
 
