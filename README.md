@@ -50,8 +50,20 @@ conda config --add channels conda-forge && conda install -y ipython \
     tornado=5.1.1 jupyter notebook ipywidgets numpy scipy numba pandas \
     gdal netcdf4 matplotlib basemap basemap-data-hires pillow obspy
 ```
+This may take a couple of minutes and will result is many other packages getting installed as conda takes care of package dependencies for you.
 
 ---
+**Step 4:**
+
+Test your environment:
+
+You should now be good-to-go. To verify this, please type jupyter-notebook in the Terminal. A browser window should open and you should be able to start a new Python 3 Notebook:
+
+
+If you got suck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
+
+---
+**Step 4:**
 
 *See you this Thursday,*
 
