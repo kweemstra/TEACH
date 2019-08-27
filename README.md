@@ -10,11 +10,10 @@ Created by Cornelis Weemstra
 
 This will be an active learning assignment, which will make use of the python programming language in combination with [Jupyter Notebooks](https://jupyter.org/), which you should install (or already have) on the laptop that you bring to the course.
 
-I have prepared some instructions for setting up your environment so that you come prepared and so that we don’t spend precious time on these preparations during the assignment. Please follow the instructions. These instructions should work on Linux, macOS, and Windows.
+I have prepared some instructions for setting up your environment so that you come prepared and so that we don’t spend precious time on these preparations during the assignment. Please follow the instructions. These instructions should work on Linux, macOS, and Windows.   
 
 
 
----
 **Step 1:**
 
 If you do not already have Anaconda or Miniconda installed on your machine (Hint: If you are unsure, go ahead and install a fresh copy), follow this link to download Miniconda and install the right package for your OS (Windows, Linux, or MacOS): 
