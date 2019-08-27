@@ -21,7 +21,7 @@ If you do not already have Anaconda or Miniconda installed on your machine (Hint
 
 https://conda.io/en/latest/miniconda.html
 
-We recommend the 64-bit Python 3.7 version regardless of your OS. Installation should be straightforward (choose default install location), but will inlude agreeing to the license terms (mark/type `yes').
+We recommend the 64-bit Python 3.7 version regardless of your OS. Installation should be straightforward (choose default install location), but will inlude agreeing to the license terms (mark/type 'yes').
 
 
 
@@ -54,6 +54,7 @@ conda config --add channels conda-forge && conda install -y ipython \
 ---
 
 *See you this Thursday,*
+
 Kees
 
 # [Download the notebooks](http://tinyurl.com/y4aehjc5) http://tinyurl.com/y4aehjc5
