@@ -60,7 +60,8 @@ Test your environment:
 You should now be good-to-go. To verify this, please type jupyter-notebook in the Terminal. A browser window should open and you should be able to start a new Python 3 Notebook:
 [jupyter-notebook](images/jupyter-notebook.png)
 
-If you got suck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
+
+If you got stuck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
 
 ---
 **Step 4:**
