@@ -28,16 +28,16 @@ We recommend the 64-bit Python 3.7 version regardless of your OS. Installation s
 ---
 **Step 2:**
 
-Whether you just installed Miniconda or are using an already existing conda environment, create a new environment by typing the following command in you terminal ('Anaconda Prompt' on Windows):
+Regardless whether you just installed Miniconda or are using an already existing conda environment, create a new environment by typing the following command in you terminal ('Anaconda Prompt' on Windows):
 
 ```shell
-conda create -n ctg -c conda-forge -y python=3.7
+conda create -n teach -c conda-forge -y python=3.7
 ```
 
 And activate this new environment with:
 
 ```shell
-conda activate ctg
+conda activate teach
 ```
 
 ---
