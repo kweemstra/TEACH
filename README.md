@@ -6,7 +6,7 @@ Created by Cornelis Weemstra
 - **Date:** 29 March 2019
 - **Time:** 09:00hr
 
-## Geting ready
+## Getting ready
 
 This will be an active learning assignment, which will make use of the python programming language in combination with [Jupyter Notebooks](https://jupyter.org/), which you should install (or already have) on the laptop that you bring to the course.
 
@@ -67,11 +67,12 @@ You should now be good-to-go. To verify this, please type jupyter-notebook in th
 If you were able to start a new Python 3 Notebook, you are indeed good-to-go for this Thursday. In case you got stuck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
 
 
----
+## The real deal
+
+# [Download the notebooks](http://tinyurl.com/y4aehjc5) http://tinyurl.com/y4aehjc5
 
 
 See you this Thursday,
 
 Kees
 
-# [Download the notebooks](http://tinyurl.com/y4aehjc5) http://tinyurl.com/y4aehjc5
