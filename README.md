@@ -14,20 +14,6 @@ We have prepared some instructions for setting up your environment so that you c
 
 
 
-1. Download Miniconda:
-Miniconda is a mini version of Anaconda that includes only conda and its dependencies. Follow the installation instruction (Linux, OSX or macOS) to get started on your system.
-
-In short, this will include:
-
-Downloading the Miniconda3-latest-*-x86_64.sh, where * will be either MacOSX or Linux.
-Installing miniconda by firing up the Terminal and typing:
-cd Downloads/
-bash Miniconda3-latest-*-x86_64.sh
-Agreeing to the license terms (type yes)
-Accept the default install location proposed by the installer (press Enter)
-Allow Miniconda to prepend the install location to the PATH (type yes)
-
-
 ---
 **Step 1:**
 
