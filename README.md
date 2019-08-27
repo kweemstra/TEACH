@@ -8,7 +8,7 @@ Exercise created by Cornelis Weemstra
 
 ## Geting ready
 
-This will be a active learning assignment, which will make use of the python programming language in combination with jupyter notebooks. [Jupyter Notebooks](https://jupyter.org/), which
+This will be an active learning assignment, which will make use of the python programming language in combination with [Jupyter Notebooks](https://jupyter.org/), which
 you should install (or already have) on your laptops that you bring to the course.
 
 We have prepared some instructions for setting up your environment so that you come
