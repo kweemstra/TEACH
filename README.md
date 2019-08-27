@@ -58,13 +58,11 @@ This may take a couple of minutes and will result is many other packages getting
 Test your environment:
 
 You should now be good-to-go. To verify this, please type jupyter-notebook in the Terminal. A browser window should open and you should be able to start a new Python 3 Notebook:
-[jupyter-notebook](images/jupyter-notebook.png)
+<img width="868" alt="jupyter-notebook" src="https://user-images.githubusercontent.com/54576788/63766573-c0331400-c8cb-11e9-9195-19d71528258a.png">
+
+If you were able to start a new Python 3 Notebook, you are indeed good to go for this Thursday. In case you got stuck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
 
 
-If you got stuck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
-
----
-**Step 4:**
 
 *See you this Thursday,*
 
