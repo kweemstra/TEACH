@@ -67,6 +67,8 @@ You should now be good-to-go. To verify this, please type jupyter-notebook in th
 If you were able to start a new Python 3 Notebook, you are indeed good to go for this Thursday. In case you got stuck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
 
 
+---
+
 
 See you this Thursday,
 
