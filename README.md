@@ -1,5 +1,5 @@
 # Active learning session created for the UTQ module TEACH
-Exercise created by Cornelis Weemstra
+Created by Cornelis Weemstra
 
 ## When and where
 
