@@ -74,15 +74,18 @@ You should now be good-to-go. To verify this, please type jupyter-notebook in th
 
 <img width="868" alt="jupyter-notebook" src="https://user-images.githubusercontent.com/54576788/63766573-c0331400-c8cb-11e9-9195-19d71528258a.png">
 
-If you were able to start a new Python 3 Notebook, you are indeed good-to-go for this Thursday. In case you got stuck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. 
+If you were able to start a new Python 3 Notebook, you are indeed good-to-go for this Thursday. In case you got stuck somewhere in the process above, I will either let you look over the shoulder of a colleague tomorrow or we will do some quick troubleshooting. We will start our session this Thursday with "the real deal", below.
 
 <br/>
 <br/>
 
 ## The real deal
 
-# [Download the notebooks](http://tinyurl.com/y4aehjc5) http://tinyurl.com/y4aehjc5
+At the top of this page (i.e., in the project), you can find a zip file dubbed "JUPYTER_NOTEBOOK.zip". Please download the zip file, unzip it, and store the content in a separate directory on you machine. In your terminal ('Anaconda Prompt' on Windows), go to this directory and type
 
+```shell
+    jupyter notebook Teach.ipynb
+```
 
 See you this Thursday,
 
